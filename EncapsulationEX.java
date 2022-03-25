@@ -53,5 +53,7 @@ public class EncapsulationEX {
         ob.setPhonenumber(999999999);
         ob.setName("Anuragh");
         System.out.println("name-"+ob.getName()+"\n"+"age-"+ob.getAge()+"\n"+"BOD-"+ob.getBOD()+"\n"+"id-"+ob.getId()+"\n"+"phone-"+ob.getPhonenumber());
+        System.out.println("this is my pc");
     }
+    
 }
