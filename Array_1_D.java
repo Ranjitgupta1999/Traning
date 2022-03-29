@@ -1,5 +1,17 @@
 public class Array_1_D {
     public static void main(String[] args) {
+
+        // there are three types to make an array
+        // 1. int [] arr;                                              Declaration!
+        //    arr=new int[5];                                          Memory Allocation!
+
+        // 2.int [] arr=new arr[5];                                    Declaration + Memory Allocation
+
+        // 3.int [] arr={};                                             Declare + Initialize
+
+        // array indices starts from 0 and goes till (n-1)
+        // when n is the size of the array.
+
         // 1-D Array
 
 //        int [] arr;
